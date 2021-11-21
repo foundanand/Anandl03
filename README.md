@@ -9,7 +9,7 @@
   <img align="left" alt="Anand Lahoti | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
-## MTech Integrated Artificial Intelligence 
+## Integrated M.Tech in Artificial Intelligence 
 - 📫 How to reach me: ...
 - https://www.linkedin.com/in/anand-lahoti/
 - https://www.instagram.com/anand______03/
