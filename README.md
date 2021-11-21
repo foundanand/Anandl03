@@ -1,6 +1,6 @@
 ### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I'm [Anand Lahoti!](https://www.linkedin.com/in/anand-lahoti/) 👋
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Anandl03)
--    Integrated M.tech in AI from Vellore Institute of Technology, Bhopal.👋
+-    Integrated M.tech in Artificial Intelligence from Vellore Institute of Technology, Bhopal.👋
 -   🌱 I’m currently learning ... 
 -    Machine Learning and Data Science
 -    😄 Pronouns: ... he/him
@@ -10,7 +10,7 @@
 </a>
 
 ## Integrated M.Tech in Artificial Intelligence 
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - https://www.linkedin.com/in/anand-lahoti/
 - https://www.instagram.com/anand______03/
 
